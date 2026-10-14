@@ -1,0 +1,17 @@
+$ curl -s "https://api.github.com/repos/muhammadmohsiniyas435-del/my-final-project"
+
+{
+  "id": 123456789,
+  "name": "my-final-project",
+  "full_name": "muhammadmohsiniyas435-del/my-final-project",
+  "fork": true,
+  "parent": {
+    "id": 987654321,
+    "name": "wcino-lntroduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/wcino-lntroduction-to-Git-and-GitHub",
+    "owner": {
+      "login": "ibm-developer-skills-network"
+    }
+  }
+  ...
+}
